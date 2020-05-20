@@ -1,0 +1,6 @@
+.idea
+.gitignore
+go.mod
+go.sum
+hints/creditcard.aerospike.csv
+hints/creditcard.csv
